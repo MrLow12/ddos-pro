@@ -1,25 +1,4 @@
 <div align=center>
- 
-# KARMA DDoS
- <p>
- <img src="https://img.shields.io/github/stars/HyukIsBack/KARMA-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/forks/HyukIsBack/KARMA-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
- <img src="https://img.shields.io/github/license/HyukIsBack/KARMA-DDoS?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
- 
-</p>
- DDoS Script (DDoS Panel) with Multiple Bypass<br>( Cloudflare UAM,CAPTCHA,BFM,NOSEC / DDoS Guard / Google Shield / V Shield / Amazon / etc.. )<br/><br/>
- Don't attack any websites you don't own it<br/>
- This was created for educational purposes<br/>
- All responsibilities and disadvantages of using this program is for the user.
- 
-
-## Language</br>
-
- <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
-</div>
-
-## Menu
-![karma](https://user-images.githubusercontent.com/87601386/165147097-7f6f4f6d-f9fd-4a53-b3fa-a16fe739e963.png)
 
 ## Methods
 
@@ -52,10 +31,8 @@
  - Subnet  | Subnet IP Address Lookup
 ```
 
-## Videos
-[![](https://user-images.githubusercontent.com/87601386/161339371-b6dfaa8f-1cf2-41d1-85c1-d82cdd98def1.png)](https://www.youtube.com/watch?v=MPKdfhPeLeE)
 
-## Usage on Linux
+## Usage on Linux/Termux
 ```sh
 You must use Python 3.9 or higher
 
@@ -74,7 +51,7 @@ OR
 
 ## Example
 ```sh
-Use DDoS Panel   : python3 main.py
-Use command line : python3 main.py <method> <target> <thread> <time>
+Use DDoS Panel   : python3 zakkigans.py
+Use command line : python3 zakkigans.py <method> <target> <thread> <time>
       └──────────> python3 main.py cfb https://example.com 100 30
 ```
