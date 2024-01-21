@@ -1,6 +1,6 @@
 # Encrypted Marshall Code
 #ENCRYPTED BY :zakkiXD-Dev
-#VERSION : python3
+#VERSION : python3 
 #Whatsapp : 082137435046
 #MESSAGE : HIDUP JANGAN KEBANYAKAN RECODE CIK...
 # Time : Mon Jan 22 00:14:52 2024
