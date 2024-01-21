@@ -2,7 +2,6 @@
 Tools DDoS Premium 
 
 Command termux:
-
 $ apt update && apt upgrade -y
 $ apt install python3
 $ git clone https://github.com/MrLow12/ddos-pro
