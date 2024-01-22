@@ -56,5 +56,5 @@ OR
 ```sh
 Use DDoS Panel   : python3 zakkigans.py
 Use command line : python3 zakkigans.py <method> <target> <thread> <time>
-      └──────────> python3 main.py cfb https://example.com 100 30
+      └──────────> python3 zakkigans.py cfb https://example.com 100 30
 ```
